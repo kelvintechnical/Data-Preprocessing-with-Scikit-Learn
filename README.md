@@ -1,6 +1,5 @@
 <h1>Python Data Preprocessing with Scikit-Learn</h1>
 
-<img src="img/data-preprocessing-logo.png" alt="Data Preprocessing Logo">
 
 <a href="https://www.python.org/downloads/">
     <img src="https://img.shields.io/badge/python-3.7%2B-blue" alt="Python Badge">
@@ -15,7 +14,7 @@
 Usage: data_preprocessing.py [OPTIONS]
 
   Perform essential data preprocessing steps, including handling missing values, encoding categorical data, scaling numerical values, and splitting the data.
-  Developed by [Your Name] -> (Github: [YourUsername])
+  Developed by [Kelvin R. Tobias] -> (Github: [https://github.com/kelvintechnical)
 
 Options:
   -help, -h   Show this message and exit.
@@ -24,7 +23,7 @@ Options:
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>$ git clone https://github.com/yourusername/data-preprocessing-with-scikit-learn.git
+        <pre><code>$ git clone (https://github.com/kelvintechnical/Data-Preprocessing-with-Scikit-Learn.git)
 $ cd data-preprocessing-with-scikit-learn</code></pre>
     </li>
     <li>Install dependencies:
