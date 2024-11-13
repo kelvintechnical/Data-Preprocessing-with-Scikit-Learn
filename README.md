@@ -125,5 +125,3 @@ $ git checkout -b new-feature</code></pre>
    </button>
 </a>
 
-<h2>Donations</h2>
-<p>This is free, open-source software. If you'd like to support my future projects or say thanks, consider donating BTC at <code>1FnJ8hRRNUtUavngswUD21dsFNezYLX5y9</code>.</p>
