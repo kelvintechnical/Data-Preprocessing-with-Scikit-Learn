@@ -96,7 +96,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 <h2>How to Contribute</h2>
 <ol>
     <li>Clone the repo and create a new branch:
-        <pre><code>$ git clone https://github.com/yourusername/data-preprocessing-with-scikit-learn.git
+        <pre><code>$ git clone https://github.com/kelvintechnical/Data-Preprocessing-with-Scikit-Learn.git
 $ git checkout -b new-feature</code></pre>
     </li>
     <li>Make changes, run, and test them.</li>
